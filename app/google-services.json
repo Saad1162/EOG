@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683352684033",
+    "project_id": "eolutionofgames",
+    "storage_bucket": "eolutionofgames.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683352684033:android:668b791e7adbf49a507200",
+        "android_client_info": {
+          "package_name": "com.coderscage.evolutionofgames"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8UtvJbfimSCmW7DBTcshgi4TqWngrJ5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

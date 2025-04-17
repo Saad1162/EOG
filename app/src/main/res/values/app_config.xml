@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ThemeColor">@color/colorPrimary</color>
+    <string name="your_app_name">EvolutionofGames</string>
+    <string name="short_description">New Android PSP Games Mods</string>
+    <string name="long_description">Download the latest Dragon Ball Z Games Mods and PPSSPP Games for free</string>
+    <string name="faceBook_url">https://www.facebook.com/YT.ZGAMES</string>
+    <string name="instgram_url">https://www.instagram.com/zgames.yt/</string>
+    <string name="phone_number">+20100000000</string>
+    <string name="app_version">V2.1.0</string>
+
+    // AdMobs ID
+    <string name="AdMob_app_ID">ca-app-pub-3940256099942544~3347511713</string>
+    // change that by your app id
+
+
+</resources>
